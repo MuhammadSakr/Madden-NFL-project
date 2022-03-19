@@ -6,3 +6,7 @@ The client asked not to share the data .. he agreed just to share visualizations
 He wanted to see some comparisons using equations he provided.
 
 The comparisons was like "Every player VS Every team" for every position one by one.
+
+This was for the excel sheet (which cannot be shared).
+
+Then he asked to compare the teams using average points for every position, and this is what the visualizations show.
