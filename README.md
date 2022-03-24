@@ -11,4 +11,4 @@
 
 - This was for the excel sheet (which cannot be shared).
 
-- Then he asked to compare the teams using average points for every position, and this is what the visualizations show.
+- Then he asked to compare the teams using points average for every position, and this is what the visualizations show.
