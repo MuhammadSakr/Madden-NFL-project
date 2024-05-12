@@ -1,14 +1,15 @@
-# Madden-NFL-project
-- Madden NFL is an American football video game series developed by EA Tiburon for EA Sports.
+# Project Summary: Predicting Optimal Football Players for Betting
 
-- The client asked not to share the data .. he agreed just to share visualizations.
+This project aimed to analyze Madden NFL data to identify potential advantages in football betting. Due to confidentiality, the specific data cannot be shared, but the visualizations provide key insights.
 
-- He wanted to see some comparisons using equations he provided.
+Project Goals:
 
-- The comparisons was like "Every player VS Every team" for every position one by one.
+Utilize client-provided equations to compare individual players across all teams for each position.
+Analyze team performance based on average points scored by position.
+Key Deliverables:
 
-- He wanted to use these comparisons to see the best players for every match in the future to use them in bets.
+Visualizations that compare player performance across teams for each position (confidential).
+Visualizations that analyze team performance based on average points scored by position (presented in this document).
+Expected Outcome:
 
-- This was for the excel sheet (which cannot be shared).
-
-- Then he asked to compare the teams using points average for every position, and this is what the visualizations show.
+The visualizations aim to help the client identify potentially undervalued players and strong team performances based on points scored. This information can be used to inform future football betting decisions.
